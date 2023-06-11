@@ -1,7 +1,7 @@
 # WifiSlayer v1.0
 WifiSlayer is a wifi hacking tool that allows you to perform various functions from a single interface.
 
-![alt text](imgs/Wifi_Slayer.png.jpg)
+![Untitled](imgs/Wifi_Slayer.png)
 
 # Current version features
 
